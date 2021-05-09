@@ -2,17 +2,24 @@
 Gematria bible code project
 
 
+**Determine what to develop program with:**
+javascript, c++, godot?...
+
+
 **Values:**
 The most evident system.
 A=1 B=2 C=3 ... Z=26
 
+
 **Set to reverse values:**
 A=26 B=25 C=24 ... Z=1
+
 
 **Set to a multiple:**
 A=1 * 6
 B=2 * 6
 WORD = 60 * 6
+
 
 **Skipping by letters:**
 W = 23
